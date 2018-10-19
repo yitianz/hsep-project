@@ -6,3 +6,6 @@ Link to project instructions:
 
 Project spec:
 <a> https://inst.eecs.berkeley.edu/~cs188/fa18/project1.html </a>
+
+
+![Image of Pacman](https://inst.eecs.berkeley.edu/~cs188/fa18/assets/images/pacman_game.gif)
